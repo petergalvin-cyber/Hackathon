@@ -1,0 +1,21 @@
+html,body {
+    height:100%;
+    margin: 0px;}
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+.landing {
+ 
+
+ display: grid;
+ grid-template-columns: 25% 75%;
+ justify-content: center;
+ height: 100%;
+ overflow: hidden;
+ }
+
+.box {
+  background-color: black;
+  }
+
+
